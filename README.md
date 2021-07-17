@@ -6,9 +6,9 @@ Finished assignment for week 14: Model-View-Controller (MVC): Tech Blog
 
 Name: Technology-blog
 
-Make Trivia Great again is an application that allows users to spin a wheel containing thirty trivia questions of five different categories: Geography, Mythology, Science, Sports, and [insert last category here] to test their trivial knowledge.
+Our objective for this assignment was to build a CMS-style blogging website where developers can publish their posts and comment on other users posts as well. The site was built from scratch and follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
-Users will be able to login with a username, email, and password so they can save their scores and track how well they perform.
+The application will allow users to login with a username and password so they can save their posts and then comment on their own or others posts as well.
 
 # Technologies Used
 
@@ -23,7 +23,7 @@ Users will be able to login with a username, email, and password so they can sav
 
 Github URL: https://github.com/trevorwiegand92/Technology-Blog
 
-Heroku URL: https://m-t-g-a.herokuapp.com/
+Heroku URL: https://technoblogo.herokuapp.com/
 
 # Acknowledgments
 
